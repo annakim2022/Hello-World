@@ -5,5 +5,8 @@
     <string name="button_countDown">count down</string>
     <string name="textView_count">0</string>
     <string name="toast_message">Hello!</string>
-    <string name="second_activity">SecondActivity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="button_goBack">go back</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="button_goNext">go next</string>
 </resources>
